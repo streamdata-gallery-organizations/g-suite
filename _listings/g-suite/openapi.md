@@ -4,7 +4,7 @@ x-collection-name: G Suite
 x-complete: 1
 info:
   title: G Suite Activity
-  description: provides-a-historical-view-of-activity
+  description: provides-a-historical-view-of-activity-
   contact:
     name: Google
     url: https://google.com
